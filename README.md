@@ -1,14 +1,7 @@
 # 📱 MoodTracker
 
 MoodTracker is a social media app that allows you to archive and share your emotional moments, big or small.<br > <br /> 
-<img src="Search.png" alt="" width="300" height="">
-<img src="Feed.png" alt="" width="300" height="">
-<img src="Details.png" alt="" width="300" height=""><br > <br />
-<img src="Profile.png" alt="" width="300" height="">
-<img src="Add1.png" alt="" width="300" height="">
-<img src="Add2.png" alt="" width="300" height=""><br > <br /> 
-<img src="Maps1.png" alt="" width="300" height="">
-<img src="Maps2.png" alt="" width="300" height="">
+<img src="Search.png" alt="" width="300" height=""><img src="Feed.png" alt="" width="300" height=""><img src="Details.png" alt="" width="300" height=""><img src="Profile.png" alt="" width="300" height=""><img src="Add1.png" alt="" width="300" height=""><img src="Add2.png" alt="" width="300" height=""> <img src="Maps1.png" alt="" width="300" height=""><img src="Maps2.png" alt="" width="300" height="">
 
 ---
 
@@ -49,7 +42,7 @@ Powered by Firebase, MoodTracker offers real-time syncing, offline access, secur
 
 ## 🛠️ Get The App
 
-Ready to get and stay in touch with your emotions? [Download](MoodTracker.apk) the app.
+Ready to get and stay in touch with your emotions? [Download](https://github.com/IkennaOkeke/Mood-Tracker/blob/main/MoodTracker.apk) the app.
 
 #### OR
 
