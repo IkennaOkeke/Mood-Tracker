@@ -1,7 +1,7 @@
 # 📱 MoodTracker
 
 MoodTracker is a social media app that allows you to archive and share your emotional moments, big or small.<br > <br /> 
-<img src="Search.png" alt="" width="300" height=""><img src="Feed.png" alt="" width="300" height=""><img src="Details.png" alt="" width="300" height=""><img src="Profile.png" alt="" width="300" height=""><img src="Add1.png" alt="" width="300" height=""><img src="Add2.png" alt="" width="300" height=""> <img src="Maps1.png" alt="" width="300" height=""><img src="Maps2.png" alt="" width="300" height="">
+<img src="Search.png" alt="" width="300" height=""> <img src="Feed.png" alt="" width="300" height=""> <img src="Details.png" alt="" width="300" height=""> <img src="Profile.png" alt="" width="300" height=""> <img src="Add1.png" alt="" width="300" height=""> <img src="Add2.png" alt="" width="300" height=""> <img src="Maps1.png" alt="" width="300" height=""> <img src="Maps2.png" alt="" width="300" height="">
 
 ---
 
