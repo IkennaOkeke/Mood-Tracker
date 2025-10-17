@@ -1,68 +1,76 @@
-# 📱 MoodTracker - CMPUT 301 W25  
-### *Your Emotional Wingman, Built for the Grind*  
+# 📱 MoodTracker
 
-Picture this: an Android app so slick, so clutch, it’s like a therapist, journal, and hype squad rolled into one. *MoodTracker* isn’t just about “tracking feelings”—it’s about owning your mental game, crushing self-doubt, and flexing emotional awareness like a pro. Designed for university students and staff (but honestly, anyone with a pulse), this bad boy’s here to revolutionize well-being—one mood at a time.
-
-**Spoiler:** No one’s touching us. We’re APR-free, social media-free, *ad-free*, and privacy-obsessed. No pop-ups, no nonsense—just pure vibes. Try to compete. We dare you.
-
----
-
-## 👥 The Dream Team: team_16  
-
-| Name                  | CCID       | GitHub Username     | 
-|-----------------------|------------|---------------------|
-| Derek Dubrule         | dubrule1   | derekjd1            |                       
-| Harmanpreet Singh     | harmanp8   | Harman-DevCloud     |
-| Aaron Onate           | onate1     | A-K-O               |                       
-| Abdullah Aderinto     | aderint1   | aaderinto04         |                      
-| Ikenna Okeke          | iokeke     | IkennaOkeke         |                       
-| Michael Joshua Saul   | msaul      | onionrings29        |                       
-
+MoodTracker is a social media app that allows you to archive and share your emotional moments, big or small.<br > <br /> 
+<img src="Search.png" alt="" width="300" height="">
+<img src="Feed.png" alt="" width="300" height="">
+<img src="Details.png" alt="" width="300" height=""><br > <br />
+<img src="Profile.png" alt="" width="300" height="">
+<img src="Add1.png" alt="" width="300" height="">
+<img src="Add2.png" alt="" width="300" height=""><br > <br /> 
+<img src="Maps1.png" alt="" width="300" height="">
+<img src="Maps2.png" alt="" width="300" height="">
 
 ---
 
-## 🎯 What’s the Big Deal?  
+## 👥 The Development Team
 
-*MoodTracker* is your ticket to cracking the code of your emotional well-being. Student stressing over midterms? Businessperson juggling deadlines? Regular human trying to figure out why you’re salty today? We’ve got you. Log your vibes, pin ‘em to a map, share (or don’t—your call), and watch patterns emerge like a boss.  
-
-Oh, and it’s powered by **Firebase**—real-time sync, offline mode, bulletproof auth, and cloud storage so secure it’s basically Fort Knox. Your data? Locked down. Your peace of mind? Priceless.
-
----
-
-## 🌟 Why We’re Next-Level (Key Features)  
-
-- **🎭 Mood Logging That Slaps:** Capture your highs, lows, and “meh” moments. Add pics, text, vibes, locations—edit or yeet ‘em whenever.  
-- **🔐 Privacy on Lock:** Public flex or private vent? You decide. No creepy data grabs here.  
-- **📜 Time Machine Vibes:** Scroll your mood history, filter it by feels or keywords, and spot the trends. Knowledge is power, fam.  
-- **👥 Follow the Crew:** Slide into someone’s mood feed (with consent, obvi), see what’s poppin’ with your people, and flex your squad’s energy.  
-- **🗺️ Maps That Hit Different:** Pin your moods on a map—yours or your crew’s within 5 km. See where the good (or bad) vibes live.  
-- **💬 Spill the Tea:** Comment on public moods, vibe with the community, and soak up the support.  
-- **🌐 Offline? No Sweat:** Log moods anywhere, anytime—syncs like magic when you’re back online.  
-- **🔎 Profiles That Pop:** Search users, peep their stats, and pimp your own. You’re the star here.  
-- **💡 Wow Factor:** *Shh… it’s coming. Brace yourself for next-level dope.*  
+| Name                  | GitHub Username     | 
+|-----------------------|---------------------|
+| Derek Dubrule         | derekjd1            |                       
+| Harmanpreet Singh     | Harman-DevCloud     |
+| Aaron Onate           | A-K-O               |                       
+| Abdullah Aderinto     | aaderinto04         |                      
+| Ikenna Okeke          | IkennaOkeke         |                       
+| Michael Joshua Saul   | onionrings29        |                       
 
 
 ---
 
-## 🛠️ Setup: Get It Poppin’  
+## 🎯 About Our App
 
-Ready to vibe with *MoodTracker*?  
-1. **Snag the Goods:** Clone our repo and claim your front-row seat.  
+*MoodTracker* helps you understand and take control of your emotional well-being. Whether you’re a student tackling midterms, a professional balancing deadlines, or just trying to figure out what’s throwing off your vibe today — we’ve got you covered. Log your moods, pin them to a map, choose what to share, and uncover patterns that help you grow.
+
+Powered by Firebase, MoodTracker offers real-time syncing, offline access, secure authentication, and cloud storage built to protect your data. Your privacy stays intact, as well as your peace of mind.
+
+---
+
+## 🌟 What's In It For You
+
+- **🎭 Effortless Mood Logging:** Record your highs, lows, and everything in between. Add photos, notes, locations — edit or delete whenever you like.
+- **🔐 Privacy You Control:** Share publicly or keep it private. Your data stays yours — no tracking, no funny business.
+- **📜 Your Mood Timeline:** Revisit past entries, filter by emotion or keyword, and discover what drives your ups and downs.
+- **👥 Connect with Others:** Follow friends, see how they’re feeling, and support each other through the highs and lows.
+- **🗺️ Mood Map:** Visualize your emotions on a map — explore your own moods or your circle’s.
+- **💬 Join the Conversation:** Comment on public moods, offer support, and be part of a positive community.
+- **🌐 Works Anywhere:** No internet? No problem. Log moods offline and sync automatically when you’re back online.
+- **🔎 Custom Profiles:** Search users, view insights, and personalize your own space to reflect your personality.
+
+---
+
+## 🛠️ Get The App
+
+Ready to get and stay in touch with your emotions? [Download](MoodTracker.apk) the app.
+
+#### OR
+
+1. Add the app to your device by cloning the repository:
+
    ```bash  
    git clone https://github.com/cmput301-w25/project-team_16.git
-2. **Unleash the Beast:** Crack open Android Studio—time.
-3. **Slide In:** Hop into the code directory like you own it.
+3. Open Android Studio.
+4. Navigate to the code directory:
+
    ```bash
    cd code
-4. **Build the Future:** Smash that build button and run it—emulator or your own Android beast. Watch it come alive.
-5. Too cool for the code? No sweat—download the APK straight on your Android device, install it, and vibe out instantly.
+6. Click the Build button.
+7. Open the app, create an account, and have fun!
 
-   - [Download](https://drive.google.com/file/d/1kiyl1--seoUvRXs2sXrYfjXSfPmj21Nk/view?usp=sharing)
+---
 
 ## Documentation
 
-- 📝 Wiki: [Dive Deep](https://github.com/cmput301-w25/project-team_16/wiki)
-- ✅ Scrum Board: [See Us Hustle](https://github.com/orgs/cmput301-w25/projects/92)
-- 🎨 UI Mockups: [Eye Candy](https://github.com/cmput301-w25/project-team_16/wiki/UI-Mockups-and-Storyboard-Sequence)
-- 📊 UML: [The Blueprint](https://github.com/cmput301-w25/project-team_16/wiki/UML)
-- 📃 Javadoc: [Browse Code Docs](docs/index.html)
+- 📝 [Wiki](https://github.com/cmput301-w25/project-team_16/wiki)
+- ✅ [Scrum Board](https://github.com/orgs/cmput301-w25/projects/92)
+- 🎨 [UI Mockups](https://github.com/cmput301-w25/project-team_16/wiki/UI-Mockups-and-Storyboard-Sequence)
+- 📊 [UML Diagram](https://github.com/cmput301-w25/project-team_16/wiki/UML)
+- 📃 [Javadoc](docs/index.html)
